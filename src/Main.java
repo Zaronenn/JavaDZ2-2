@@ -10,7 +10,7 @@ public class Main {
         // сценариев рассчитываете сумму бонуса и выводите
         // на экран.
         int initial_account = 100; //начальный счёт
-        int deposit_amount = 100; // сумма пополнения
+        int deposit_amount = 1500; // сумма пополнения
 
         int bonus_rubles;
         if (deposit_amount > 1000){
